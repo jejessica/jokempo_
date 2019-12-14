@@ -1,4 +1,6 @@
 .main-logo {
-    columns: var(--color-second);
+    color: var(--color-second) !important ;
     font-family: 'Quicksand', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
 }
