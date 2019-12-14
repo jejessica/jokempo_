@@ -1,0 +1,19 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: var(--color-second);
+}
+
+header a {
+    color: var(--color-second);
+    text-decoration: none;    
+    margin-left: 12px;
+}
+
+header a:last-child {
+    background-color: var(--color-second);
+    color: var(--color-primary);
+    padding: 8px 12px;
+    border-radius: 8px;
+}
