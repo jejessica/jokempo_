@@ -1,6 +1,5 @@
 .main-logo {
     color: var(--color-second) !important ;
-    font-family: 'Quicksand', sans-serif;
-    font-size: 18px;
-    font-weight: bold;
+    font-family: 'Quicksand', sans-serif;   
+    padding: 8px;
 }

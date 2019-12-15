@@ -1,16 +1,17 @@
-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin: 16px 12px;
-}
-
-header a:last-child {
+.primary-button {
     color: var(--color-primary);
     background-color: var(--color-second);
     font-weight: bold;
     text-decoration: none;    
     padding: 4px 22px;
-    border-radius: 8px;
+    border-radius: 4px;
     margin-left: 12px;
 }
+
+.primary-button.-dark {
+    color: var(--color-base);
+    font-weight: bold;
+    text-decoration: none;
+    margin: 8px 30%;
+}
+

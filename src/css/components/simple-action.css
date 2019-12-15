@@ -1,10 +1,15 @@
 .simple-action {
+    font-family: 'Quicksand', sans-serif;
     color: var(--color-second);
     text-decoration: none;  
     font-weight: bold;  
     margin-left: 12px;  
 }
 
+.simple-action.-light {
+    font-family: 'Bitter', serif;
+    color: var(--color-base-light);
+}
 
 
 

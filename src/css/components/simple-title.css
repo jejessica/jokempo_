@@ -1,0 +1,8 @@
+.simple-title {
+    color: var(--color-base);
+    font-weight: bold;
+    text-align: center; 
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}

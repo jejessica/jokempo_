@@ -7,35 +7,6 @@
     text-align: center;
 }  
 
-.main-section .main-divisor h1 {
-    text-align: center; 
-    font-size: 22px;
-    font-weight: bold;
-    margin-bottom: 10px;
-}
-
-.main-section .main-divisor h2 {
-    text-align: center; 
-    font-size: 18px;
-    margin-bottom: 50px;
-}
-
-.main-section a {
-    text-decoration:    navajowhite;
-    color:    #000;
-    font-weight: bold;
-    background-color: var(--color-second);
-    margin: 8px 30%;
-    border-radius: 4px;
-    padding: 6px;
-}
-
-.main-section a:last-child {
-    color: #333333;
-    font-weight: bold;
-    background-color: transparent;    
-}
-
 .main-section .links {
     display: flex;  
     flex-direction: column;
